@@ -13,7 +13,7 @@ Estos menús están diseñados para la modalidad Survival
 Contiene:
 - Warp Crates
 
-  ![Imagen2](https://github.com/TierraCraft1/CommmandPanels/assets/170255518/0759e7a6-df50-42de-a3cc-0eee90fe0fed)
+![Imagen2](https://github.com/TierraCraft1/CommmandPanels/assets/170255518/0759e7a6-df50-42de-a3cc-0eee90fe0fed)
 
 - Warp Granjas
 - Warp MinaPVP
