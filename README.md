@@ -9,4 +9,5 @@ Plugins necesarios:
 
 Imagenes:
 - Crates
-![Imagen2](https://github.com/TierraCraft1/CommmandPanels/assets/170255518/859b0bd1-77c4-41b9-80bf-58dcee8b118a)
+  
+![image](https://github.com/TierraCraft1/CommmandPanels/assets/170255518/3f64f53e-a8b3-46ab-9758-ce91c77a8f7a)
