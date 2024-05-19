@@ -18,7 +18,7 @@ Contiene:
 - Warp Granjas
 - Warp MinaPVP
 - Warp Minas
-- Warp Recursos
-- Warp END
-- Warp Nether
+- Warp RTP (Distintos Mundos)
+- Warp Tradeos
+- Menú Subastas
 - Warp Lobby
