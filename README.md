@@ -1,4 +1,4 @@
-# CommmandPanels
+# CommmandPanels 1.16.5
 Menús avanzados para CommandPanels
 
 Plugins necesarios:
