@@ -18,6 +18,9 @@ Contiene:
 - Warp Granjas
 - Warp MinaPVP
 - Warp Minas
+
+![Imagen3](https://github.com/TierraCraft1/CommmandPanels-1.16.5/assets/170255518/a8988048-69ac-4d61-9559-cf374a3d1baa)
+
 - Warp RTP (Distintos Mundos)
 - Warp Tradeos
 - Menú Subastas
