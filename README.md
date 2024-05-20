@@ -16,7 +16,7 @@ Contiene:
 ![Imagen2](https://github.com/TierraCraft1/CommmandPanels/assets/170255518/0759e7a6-df50-42de-a3cc-0eee90fe0fed)
 
 - Warp Granjas
-- Warp MinaPVP
+- Warp PVP (Distintos Mundos)
 - Warp Minas
 
 ![Imagen3](https://github.com/TierraCraft1/CommmandPanels-1.16.5/assets/170255518/a8988048-69ac-4d61-9559-cf374a3d1baa)
