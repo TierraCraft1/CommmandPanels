@@ -5,10 +5,10 @@ Plugins necesarios:
 - [CommandPanels](https://www.spigotmc.org/resources/commandpanels.67788/)
 - [EssentialsX](https://essentialsx.net/downloads.html)
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
-- [HeadDatabase](https://www.spigotunlocked.com/resources/head-database.288/)Ç
+- [HeadDatabase](https://www.spigotunlocked.com/resources/head-database.288/)
 
 Menús
-- 
+- [Menús Survival](https://github.com/TierraCraft1/CommmandPanels-1.16.5/blob/main/README.md#men%C3%BAs)
 
 # Menús Survival
 Estos menús están diseñados para la modalidad Survival
